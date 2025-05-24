@@ -25,5 +25,9 @@ streamlit run app.py
 ## 🧾 Dataset  
 Cleaned Algerian Forest Fire dataset.
 
+### 🔗 Live Demo
+[Click here to use the app](https://algerian-forest-fire-ml-cxejjrutygocs78rbz5djw.streamlit.app/)
+
+
 ## ✍️ Author  
 Yash Kumar Jha
